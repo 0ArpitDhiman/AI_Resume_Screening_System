@@ -1,0 +1,33 @@
+Job Title: Machine Learning Engineer (NLP Focus)
+
+Company: TechNova Solutions
+Location: Bangalore, India (Hybrid)
+
+Job Description:
+We are looking for a skilled Machine Learning Engineer with a strong focus
+on Natural Language Processing to join our AI team. The ideal candidate
+will design, build, and deploy NLP-based systems that solve real business
+problems, including text classification, information extraction, and
+semantic search.
+
+Responsibilities:
+- Develop and fine-tune NLP models for text classification and ranking
+- Build data pipelines for cleaning and preprocessing large text datasets
+- Apply machine learning and deep learning techniques to real-world problems
+- Collaborate with cross-functional teams to deploy models into production
+- Evaluate model performance and iterate based on metrics
+
+Required Skills:
+- Strong proficiency in Python
+- Hands-on experience with Machine Learning and Natural Language Processing
+- Experience with scikit-learn, NLTK or spaCy, and TensorFlow or PyTorch
+- Familiarity with data analysis using Pandas and NumPy
+- Experience building REST APIs with Flask or FastAPI
+- Working knowledge of SQL and databases such as MySQL or MongoDB
+- Experience with version control (Git) and cloud platforms (AWS or GCP)
+- Strong problem-solving skills and ability to work in an agile team
+
+Preferred Qualifications:
+- Experience with Streamlit or similar tools for building ML demos
+- Exposure to deep learning frameworks such as Keras or Hugging Face Transformers
+- Good communication and teamwork skills

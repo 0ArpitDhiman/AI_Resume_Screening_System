@@ -1,0 +1,26 @@
+Rohit Verma
+Email: rohit.verma@example.com | Phone: +91 91234 56789
+
+Summary:
+Software developer with 2 years of experience in backend development,
+transitioning into data science and machine learning.
+
+Skills:
+Python, Java, SQL, MySQL, Git, REST API, Flask, Pandas, Machine Learning basics
+
+Experience:
+Backend Developer, CodeCraft Technologies (2022 - Present)
+- Built REST APIs using Flask and Java Spring Boot.
+- Worked with MySQL databases for transactional systems.
+- Completed an online certification in Machine Learning fundamentals.
+
+Junior Developer, WebWorks Solutions (2021 - 2022)
+- Maintained internal tools written in Python and Java.
+- Wrote SQL queries for reporting.
+
+Education:
+B.E. in Information Technology, RGPV Bhopal (2017 - 2021)
+
+Certifications:
+- Machine Learning by Andrew Ng (Coursera)
+- Python for Data Science (Udemy)

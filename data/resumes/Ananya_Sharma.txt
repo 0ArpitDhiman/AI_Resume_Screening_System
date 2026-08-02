@@ -1,0 +1,31 @@
+Ananya Sharma
+Email: ananya.sharma@example.com | Phone: +91 98765 43210
+
+Summary:
+Machine Learning Engineer with 3 years of experience building NLP-driven
+products, from text classification pipelines to semantic search systems.
+
+Skills:
+Python, Machine Learning, Natural Language Processing, Deep Learning,
+scikit-learn, NLTK, spaCy, TensorFlow, PyTorch, Pandas, NumPy, Flask,
+FastAPI, SQL, MySQL, MongoDB, Git, AWS, Streamlit, Transformers
+
+Experience:
+ML Engineer, DataMinds Pvt Ltd (2022 - Present)
+- Built an NLP pipeline for automated document classification using
+  scikit-learn and spaCy, improving accuracy by 18%.
+- Deployed a semantic search microservice with FastAPI and deployed it
+  on AWS, serving 50k+ queries/day.
+- Used TF-IDF and transformer-based embeddings for candidate ranking
+  in an internal HR tool.
+
+Data Analyst Intern, InsightWorks (2021 - 2022)
+- Performed data analysis using Pandas and NumPy on customer datasets.
+- Built dashboards in Streamlit for internal stakeholders.
+
+Education:
+B.Tech in Computer Science, VIT Bhopal (2018 - 2022)
+
+Projects:
+- Resume Ranking System using TF-IDF and cosine similarity (Python)
+- Sentiment analysis tool using NLTK and Naive Bayes
